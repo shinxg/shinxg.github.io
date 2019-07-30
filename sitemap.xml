@@ -15,11 +15,6 @@
   </url>
   
   <url>
-    <loc>https://shinxg.github.io/publication/gm/</loc>
-    <lastmod>2019-07-29T11:57:52+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://shinxg.github.io/publication_types/</loc>
     <lastmod>2019-07-29T11:57:52+08:00</lastmod>
     <priority>0</priority>
@@ -31,13 +26,30 @@
   </url>
   
   <url>
-    <loc>https://shinxg.github.io/authors/shihong-xia/</loc>
+    <loc>https://shinxg.github.io/publication/sdm-net/</loc>
+    <lastmod>2019-07-29T11:57:52+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shinxg.github.io/</loc>
     <lastmod>2019-07-29T11:57:52+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shinxg.github.io/</loc>
+    <loc>https://shinxg.github.io/authors/hao-richard-zhanghttps/www2.cs.sfu.ca/~haoz/</loc>
+    <lastmod>2019-07-29T11:57:52+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shinxg.github.io/authors/hongbo-fuhttp/sweb.cityu.edu.hk/hongbofu/</loc>
+    <lastmod>2019-07-29T11:57:52+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shinxg.github.io/authors/jie-yanghttp/people.geometrylearning.com/~jieyang/</loc>
     <lastmod>2019-07-29T11:57:52+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -67,24 +79,12 @@
   </url>
   
   <url>
-    <loc>https://shinxg.github.io/publication/sdm-net/</loc>
+    <loc>https://shinxg.github.io/publication/gm/</loc>
     <lastmod>2019-07-29T11:40:55+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shinxg.github.io/authors/hao-richard-zhanghttps/www2.cs.sfu.ca/~haoz/</loc>
-    <lastmod>2019-07-29T11:40:55+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shinxg.github.io/authors/hongbo-fuhttp/sweb.cityu.edu.hk/hongbofu/</loc>
-    <lastmod>2019-07-29T11:40:55+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shinxg.github.io/authors/jie-yanghttp/people.geometrylearning.com/~jieyang/</loc>
+    <loc>https://shinxg.github.io/authors/shihong-xia/</loc>
     <lastmod>2019-07-29T11:40:55+08:00</lastmod>
     <priority>0</priority>
   </url>
